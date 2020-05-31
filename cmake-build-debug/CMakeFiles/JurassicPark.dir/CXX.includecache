@@ -1,0 +1,26 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+C:/Users/Velina/CLionProjects/JurassicPark/Dinosaur.cpp
+Dinosaur.h
+C:/Users/Velina/CLionProjects/JurassicPark/Dinosaur.h
+iostream
+-
+cstring
+-
+cassert
+-
+fstream
+-
+
+C:/Users/Velina/CLionProjects/JurassicPark/Dinosaur.h
+iostream
+-
+cstring
+-
+
